@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About Me
+description: Welcom to my home page
+image: assets/images/malav1.jpg
 nav-menu: true
-image: assets/images/pic11.jpg
 ---
 
 <!-- Main -->
