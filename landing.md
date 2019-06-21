@@ -2,7 +2,7 @@
 title: Education
 layout: landing
 description: 'Education'
-image: assets/images/pic07.jpg
+image: assets/images/edu1.jpeg
 nav-menu: true
 ---
 
