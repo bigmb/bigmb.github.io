@@ -12,7 +12,7 @@ nav-menu: true
   * <a href="http://www.csiro.au" target="_blank" >CSIRO</a>, Brisbane
   * Master's Thesis : Enforcing temporal consistency in Deep Learning segmentation of brain MR images. Investigate different approaches to reduce variance, including subject specific priors, longitudinal constraints, use of multiple time-points during the segmentation etc.
   * Tools : Pytorch, OpenCv, Scipy, SimpleITK, Tensorboard
-  * Supervisor: Dr. Pierrick Bourgeat.
+  * Supervisor:  <a href="https://scholar.google.com.au/citations?user=IQRED1IAAAAJ&hl=en" target="_blank" >Dr. Pierrick Bourgeat</a>.
   * Project link : <a href="https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets" target="_blank">Github Link</a>
   
 * <b> Summer Internship </b>, Jun 2018 - Aug 2018
