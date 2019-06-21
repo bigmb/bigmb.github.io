@@ -1,6 +1,6 @@
 ---
 title: Education
-layout: landing
+layout: post
 description: 'Education'
 image: assets/images/edu1.jpeg
 nav-menu: true
