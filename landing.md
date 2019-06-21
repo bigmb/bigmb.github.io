@@ -1,6 +1,6 @@
 ---
 title: Education
-layout: landing
+layout: page
 description: 'Education'
 image: assets/images/edu1.jpeg
 nav-menu: true
