@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Experience
+description: Lab and Industry work experience
+image: assets/images/pep1.jpeg
 nav-menu: true
 ---
 
