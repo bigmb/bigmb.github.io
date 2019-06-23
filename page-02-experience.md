@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Experience
 description: Lab and Industry work experience
 image: assets/images/pep1.jpeg

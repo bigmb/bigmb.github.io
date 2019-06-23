@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-description: Welcom to my home page
+description: About Me
 image: assets/images/malav1.jpg
 nav-menu: true
 show_tile: true

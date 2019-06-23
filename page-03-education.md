@@ -1,13 +1,13 @@
 ---
 title: Education
-layout: post
+layout: page
 description: 'Education'
-image: null
+image: assets/images/edu1.jpeg
 nav-menu: true
 show_tile: true
 ---
 
-assets/images/edu1.jpeg
+
 * M.S. in Computer Vision and Robotics (VIBOT), 2017 - 2019 
 
    * University of Bourgogne , France , Aug 2017 - Jan 2018 (1st Semester)
