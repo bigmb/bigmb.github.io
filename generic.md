@@ -2,7 +2,7 @@
 layout: post
 title: Experience
 description: Lab and Industry work experience
-image: assets/images/pep1.jpeg
+image: null 
 nav-menu: true
 ---
 
@@ -30,3 +30,4 @@ nav-menu: true
   * Responsible for Onsite programming , servicing and training of Robots.
   * Promoted to hotline support to international clients in Welding and Vision Application.
   * Major Sites - Ford Motors , Volkswagen, TATA Motors, Magna Cosma, Mercedes, MRF Tires
+assets/images/pep1.jpeg
