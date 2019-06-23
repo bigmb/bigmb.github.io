@@ -7,16 +7,6 @@ nav-menu: true
 show_tile: true
 ---
 
-<!-- Main -->
-<div id="main" class="alt">
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Experience</h1>
-		</header>
-
 
 * <b> PostGraduate Research Student </b>, Jan 2019 - Present 
   * <a href="http://www.csiro.au" target="_blank" >CSIRO</a>, Brisbane
