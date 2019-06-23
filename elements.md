@@ -4,6 +4,7 @@ title: About Me
 description: Welcom to my home page
 image: assets/images/malav1.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->

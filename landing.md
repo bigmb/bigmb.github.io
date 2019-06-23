@@ -4,6 +4,7 @@ layout: post
 description: 'Education'
 image: null
 nav-menu: true
+show_tile: true
 ---
 
 assets/images/edu1.jpeg
