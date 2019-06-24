@@ -10,12 +10,12 @@ show_tile: true
 <!-- Main -->
 <div id="main" class="alt">
 
-<!-- One -->
+<!-- One 
 <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h1>About Me</h1>
-		</header>
+		</header> -->
 
 <!-- Content 
 <h2 id="sample"></h2> -->
