@@ -14,12 +14,10 @@ show_tile: true
   * 2016 - Beckhoff , TwinCat - NCI training, Beckhoff Gmbh
   
 * Skills
-  * Programming : C/C++, Python
-  * Research Skills : Probabilistic Robotics, Path Planning, Control Theory, Perception, Medical Imaging, Deep Learning for   Visual Recognition
+  * Programming : C/C++, Python, KRL
+  * Research Skills :  Medical Imaging, Deep Learning, Probabilistic Robotics, Path Planning, Control Theory, Perception
   * Operating System : Ubuntu, Windows
-  * IDE : Visual Studio, Qt Creator, Eclipse, Dev C++, Sublime Text
+  * IDE : PyCharm ,Visual Studio, Qt Creator, Eclipse, Sublime Text
   * Version Control : Git
   * Typography : LaTeX, Microsoft Office, LibreOffice Writer
-  * Scientific : MATLAB, Octave, Robot Operating System (ROS), Open Motion Planning Library (OMPL) Gazebo, Scientific Python stack (numpy, scipy, scikit-learn, OpenCV, etc.), Point Cloud Library
-  * Tools and Utilities : AVR Studio, Arduino, Energia, SciLab, PSpice, MultiSim, Proteus, MakerPlot
-  * Hardware : BeagleBone Black, Raspberry Pi 2, TI Launchpad, Tiva C, ATmega Micro-controllers, 8085 Microprocessor
+  * Scientific : MATLAB, Robot Operating System (ROS), Open Motion Planning Library (OMPL) Gazebo, Scientific Python stack (Pytorch, Tensorflow, numpy, scipy, scikit-learn, OpenCV, etc.), Point Cloud Library, Meshlab, MevisLab
