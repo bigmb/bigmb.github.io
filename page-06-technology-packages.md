@@ -2,7 +2,7 @@
 layout: page
 title: Certifications and Skills
 description: Technology Packages
-image: assets/images/pep1.jpeg
+image: assets/images/try1.jpg
 nav-menu: true
 show_tile: true
 ---
