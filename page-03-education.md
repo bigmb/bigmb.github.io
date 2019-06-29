@@ -2,7 +2,7 @@
 title: Education
 layout: page
 description: 'Education'
-image: assets/images/edu1.jpeg
+image: assets/images/ar2.jpeg
 nav-menu: true
 show_tile: true
 ---
