@@ -22,7 +22,7 @@ show_tile: true
     * Achieved the task of Image Classification and detection realistic scenes images using bag of words (BoW) strategy.
 
 * Autonomous Exploration, Mapping and Path-Planning using Octomap
-  * AUTONOMOUS ROBOTICS - FINAL PROJECT - Github Link
+  * AUTONOMOUS ROBOTICS - FINAL PROJECT - <a href="https://github.com/bigmb/Autonomous-Navigation-and-Exploration" target="_blank">GitHub  Link</a>
   * UdG, Spain
   * Mar. 2018 - May 2018
     * Achieved to create an informed search algorithm for autonomous exploration using frontier based A* approach and sampling based path-planning algorithm using rapidly exploring random tree star(RRT*) using a 3D map
