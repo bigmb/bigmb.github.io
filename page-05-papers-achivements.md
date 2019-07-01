@@ -2,7 +2,7 @@
 layout: page
 title: Papers & Achivements
 description: Papers & Achivements
-image: assets/images/ar1.jpg
+image: assets/images/2.jpg
 nav-menu: true
 show_tile: true
 ---
