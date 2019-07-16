@@ -9,9 +9,9 @@ show_tile: true
 
 * M.S. in Computer Vision and Robotics (<a href="http://www.vibot.org" target="_blank" >VIBOT</a>), 2017 - 2019 
   *  <a href="http://http://en.u-bourgogne.fr/" target="_blank" >Université de Bourgogne</a> , France , Aug 2017 - Jan 2018 (1st Semester)
-    * 1st Semester - Courses in University of Bourgogne consists of comprehensive coverage in the prerequisites in the field of digital imaging (hardware and software) and image processing algorithms.
-    * Languages - C++, Python, Matlab.
-    * Tools and Framework - Qt, OpenCV , ROS , PCL (Point Cloud library), Numpy stack , VB , Jupyter Notebook.
+     * 1st Semester - Courses in University of Bourgogne consists of comprehensive coverage in the prerequisites in the field of digital imaging (hardware and software) and image processing algorithms.
+     * Languages - C++, Python, Matlab.
+     * Tools and Framework - Qt, OpenCV , ROS , PCL (Point Cloud library), Numpy stack , VB , Jupyter Notebook.
    
   * <a href="http://www.udg.edu/en/" target="_blank" >Universitat de Girona</a> , Spain , Feb 2018 - June 2018 (2nd Semester)
     * 2nd Semester - Topics are highly relevant on segmentation strategies(SLAM), object recognition and description, the acquisition of 3D information, and the application of hardware for specific real time applications. This semester covers about fundamentals on robotics, autonomous robots, scene segmentation and interpretation, visual perception, real-time image processing and Deep learning. 
