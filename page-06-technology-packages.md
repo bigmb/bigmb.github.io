@@ -22,3 +22,5 @@ show_tile: true
   * Typography : LaTeX, Microsoft Office, LibreOffice Writer
   * Scientific : MATLAB, Robot Operating System (ROS), Open Motion Planning Library (OMPL) Gazebo, Scientific Python stack (Pytorch, Tensorflow, numpy, scipy, scikit-learn, OpenCV, etc.), Point Cloud Library, Meshlab, MevisLab
   * Project Managment: Jira (Agile/Scrum) - Experienced in all project phases using Waterfall and Agile Methodologies
+  * Cloud Computing : AWS, Google Colab
+  * Container : Docker, Kubernetes
