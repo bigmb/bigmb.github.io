@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Papers & Achivements
-description: Papers & Achivements
+title: Papers & Achievements
+description: Papers & Achievements
 image: assets/images/2.jpg
 nav-menu: true
 show_tile: true
@@ -11,7 +11,7 @@ show_tile: true
   * IJSER paper - Wireless Camera on an Industrial Robot for 2D and 3D imaging and applications
   * IEEE Idea Lab Award Posters - Closed Loop Washing Machine
 
-* Achivements
+* Achievements
   * 2018 - International Scholarship , Erasmus Mobility Grant
   * 2018  - Scholarship , Regional Burgundy Grant for International Education
   * 2017  - Satanders Grant , UdG grant for Tuition Fees
